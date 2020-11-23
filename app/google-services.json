@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654151252294",
+    "firebase_url": "https://programacaoandroid-7de61.firebaseio.com",
+    "project_id": "programacaoandroid-7de61",
+    "storage_bucket": "programacaoandroid-7de61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654151252294:android:2fc9f84d8ee5abeda34d47",
+        "android_client_info": {
+          "package_name": "com.example.p2jogosdigitais_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654151252294-u2io467b8gv9k0qth0va5epr3hs1nk1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.p2jogosdigitais_v2",
+            "certificate_hash": "e5454dda6b8354723ce562129a6f2a394d1af4ae"
+          }
+        },
+        {
+          "client_id": "654151252294-4h6br54d5n4nl4qoqc4fkgjbkmpmdolj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3Ixi3AqSJcwTc17IYFeLVLb8xe5OgeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654151252294-4h6br54d5n4nl4qoqc4fkgjbkmpmdolj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

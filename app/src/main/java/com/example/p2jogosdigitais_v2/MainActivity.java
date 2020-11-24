@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         databaseReference.child("Pessoa").child(p.getId()).setValue(p);
 
-       // Toast.makeText(MainActivity.this, "Olá" + edit_nome.getText() + ", você tem: " + edit_idade.getText() + "anos", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, "Dados gravados com sucesso", Toast.LENGTH_LONG).show();
     }
 
 

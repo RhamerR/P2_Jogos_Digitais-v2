@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
         String value= edit_idade.getText().toString();
         int finalValue=Integer.parseInt(value);
+        p.setIdade(finalValue);
 
         databaseReference.child("Pessoa").child(p.getId()).setValue(p);
 

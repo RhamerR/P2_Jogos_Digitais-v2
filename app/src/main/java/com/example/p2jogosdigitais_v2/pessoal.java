@@ -35,10 +35,7 @@ public class pessoal {
 
     @Override
     public String toString() {
-        return "pessoal{" +
-                "id='" + id + '\'' +
-                ", nome='" + nome + '\'' +
-                ", idade=" + idade +
-                '}';
+        return  "Nome: " + nome + '\'' +
+                ", idade: " + idade ;
     }
 }
